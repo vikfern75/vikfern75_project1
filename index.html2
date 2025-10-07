@@ -1,0 +1,49 @@
+project 1
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Resume - Mechanical Engineering Career</title>
+  </head>
+  <body>
+    <ul>
+      <li><a href="index.html">index.html</a></li>
+      <li><a href="resume.html">resume.html</a></li>
+      <li><a href="page3.html">page3.html</a></li>
+    </ul>
+
+    <h1>My Resume</h1>
+    <h2>Career Goal</h2>
+    <p>
+      I aspire to become a professional mechanical engineer, applying technical
+      knowledge to solve problems and design systems that improve everyday life.
+    </p>
+
+    <h2>Education</h2>
+    <ul>
+      <li>Associate Degree in Information Technology</li>
+      <li>Coursework in Networking, Cloud Computing, and Engineering Fundamentals</li>
+    </ul>
+
+    <h2>Experience</h2>
+    <ul>
+      <li>Worked with medical devices, including infusion pumps and automation systems</li>
+      <li>Technical experience with troubleshooting and preventive maintenance</li>
+    </ul>
+
+    <h2>Skills</h2>
+    <ul>
+      <li>Problem solving</li>
+      <li>Strong math and science background</li>
+      <li>Experience with PLCs, networking, and automation</li>
+    </ul>
+
+    <img src="engineering project.webp" alt="Engineering project">
+    <img src="technical work.jpg" alt="Technical work">
+    <img src="resume illistration.webp" alt="Resume illustration">
+
+    <audio controls>
+      <source src="engineer video.htm" type="video/mp4">
+    </audio>
+  </body>
+</html>
